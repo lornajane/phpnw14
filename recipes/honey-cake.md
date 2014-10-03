@@ -1,5 +1,5 @@
 # Honey cake
-------
+---
 ## Ingredients:
 225g unsalted butter
 250g clear honey, plus about 2 extra tablespoon to glaze (or just use almost an entire 340g jar of honey)
@@ -7,7 +7,7 @@
 3 large eggs, beaten
 300g self-raising flour
 
-------
+---
 ## Instructions:
 1. Preheat the oven to 160 degree Celsius / gas mark 3 / fan oven 140 degree Celsius. Butter and line a 20cm / 8 inch round cake tin (ideally use a loose bottomed one).
 2. Cut the butter into pieces and add to a medium pan with the honey and sugar. Melt the butter slowly over a low heat. 

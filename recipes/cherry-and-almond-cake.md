@@ -1,5 +1,5 @@
 # Fresh cherry almond cake.
-------
+---
 ## Ingredients:
 140g/ 5oz ground almonds
 250g/ 9oz self-raising flower
@@ -10,7 +10,7 @@
 300g/ 10oz fresh cherries, stoned and patted dry
 25g/ 1oz flaked almonds, for decoration
 
-------
+---
 ## Instructions:
 1. Preheat the oven to 180 degree Celsius/ gas mark 4/ fan oven 160 degree Celsius. Butter and line the base of a 20cm/ 8" round, deep cake tin.
 2. Tip he flour into a bowl and stir in the ground almonds. Rub in the butter until the mixture is crumbly. Stir in the sugar, then add the eggs, milk, and cherries. Mix until combined, but don't over mix (it will mush the cherries).
