@@ -3,9 +3,9 @@ Fruit Crumble
 
 This crunchy topping can be added to any fruit (or combination of fruits) base, then baked.  For extra yum, serve with custard or vanilla ice cream.
 
-8oz plain flour
-4oz caster sugar
-4oz butter (margarine is fine)
+8oz (150g) plain flour
+4oz (75g) caster sugar
+4oz (75g) butter (margarine is fine)
 
 Put everything in a bowl, and rub it between your fingers until it forms an even, crumbly consistency.
 
