@@ -12,3 +12,6 @@ Recipe
 1) Add Coco Pops to bowl
 2) Add Milk to bowl
 3) Use spoon to consume
+4) Add more Coco Pops as there's still some milk in the bowl
+5) Consume more
+
