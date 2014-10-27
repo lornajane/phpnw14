@@ -1,5 +1,5 @@
 Hot chocolate
 =============
 
-Use powder and hot water
+Use powder and mud
 
